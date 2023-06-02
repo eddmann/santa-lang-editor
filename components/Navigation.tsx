@@ -13,7 +13,7 @@ export default function Navigation(): React.ReactElement {
         padding: '0 16px',
       }}
     >
-      <div>santa-lang-rs</div>
+      <div>santa-lang</div>
       <div></div>
     </nav>
   );
