@@ -10,5 +10,5 @@ Web-based code editor for [santa-lang](https://eddmann.com/santa-lang/); an func
 
 - [eddmann/santa-lang](https://github.com/eddmann/santa-lang) - Language specification/documentation
 - [eddmann/santa-lang-editor](https://github.com/eddmann/santa-lang-editor) - Web-based editor
-- [eddmann/santa-lang-ts](https://github.com/eddmann/santa-lang-ts) - TypeScript implementation
-- [eddmann/santa-lang-rs](https://github.com/eddmann/santa-lang-rs) - Rust implementation
+- [eddmann/santa-lang-prancer](https://github.com/eddmann/santa-lang-prancer) - TypeScript implementation
+- [eddmann/santa-lang-comet](https://github.com/eddmann/santa-lang-comet) - Rust implementation
